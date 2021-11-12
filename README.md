@@ -32,7 +32,7 @@ This is a simplified terminal-based version of the card game, with cards being d
 4. Enjoy!
 
 ```
-__    __ __    __ 
+ __    __ __    __ 
 |  |  |  |  |  |  | 
 |  |__|  |  |__|  | 
 |   __   |   __   | 
